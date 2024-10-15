@@ -7,7 +7,7 @@ const Footer = () => {
                 <span className='text-green-500'> &lt;</span>
                 {/* &lt; means less than &gt; means greater than */}
 
-                <span>Pass</span><span className='text-green-500'>OP/&gt;</span>
+                <span>Password</span><span className='text-green-500'>Manager/&gt;</span>
 
 
             </div>
